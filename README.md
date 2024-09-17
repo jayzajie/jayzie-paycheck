@@ -1,7 +1,7 @@
-ESX Simple Give Script
+paycheck script suuport esx and qbcore
 ============
 
-This is a script that makes it easier when admin wants to give an item without typing long and confused in chat
+to make the salary system more realistic and take it somewhere instead of automatically going to your pocket/bank
 
 Preview Link <a href='https://www.youtube.com/watch?v=KwKRrMIYo04&t=31s&ab_channel=SuryaWijaya'>Preview<a>
 
